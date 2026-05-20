@@ -6,8 +6,9 @@ title: "Inicio"
 # Apuntes a limpio
 
 ## Tecnología y Digitalización
-*Próximamente el primer concepto.*
+
+- [¿Qué es la electricidad?](/conceptos/electricidad-concepto/)
 
 ## Inteligencia Artificial para la Sociedad
-*Próximamente el primer concepto.*
 
+*Próximamente el primer concepto.*
