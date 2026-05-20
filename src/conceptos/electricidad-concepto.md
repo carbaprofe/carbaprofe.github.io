@@ -14,17 +14,27 @@ fecha: 2026-05-20
 
 ## Definición
 
-Todo lo que nos rodea está formado por átomos: el aire, el agua, este papel, tu cuerpo. El átomo tiene un núcleo central con partículas de carga positiva (protones) y, girando alrededor de ese núcleo, partículas de carga negativa llamadas **electrones**.
+Tienes el móvil en la mano. Lo enchufas. Se carga. Normal, ¿no?
 
-En condiciones normales, el número de protones y electrones de un átomo es igual, y sus cargas se compensan: el átomo es eléctricamente neutro. Pero en algunos materiales, los electrones de la capa exterior del átomo están poco sujetos al núcleo y pueden desplazarse con facilidad de un átomo a otro.
+Pero para que eso ocurra, millones de partículas diminutas están moviéndose en este momento por el cable. Sin que las veas. Sin que las oigas. A una velocidad que no puedes imaginar.
 
-La **electricidad** es precisamente eso: el conjunto de fenómenos físicos que se producen cuando las cargas eléctricas (los electrones) se acumulan en un lugar o se desplazan de un sitio a otro. Cuando las cargas están quietas hablamos de **electricidad estática**. Cuando se desplazan de forma ordenada por un material conductor hablamos de **corriente eléctrica**.
+Esas partículas son los **electrones**. Y su movimiento es lo que llamamos electricidad.
 
-## El símil
+Todo lo que existe está formado por átomos. En el centro de cada átomo hay un núcleo con partículas de carga positiva, los **protones**. Girando alrededor, con carga negativa, están los **electrones**. Normalmente se compensan: el átomo es neutro, no hace nada especial.
 
-Imagina que los átomos son cubos de agua alineados. Cada cubo tiene exactamente la misma cantidad de agua que de aire: están en equilibrio. La electricidad estática sería como inclinar un cubo hasta que algo de agua salta al siguiente: hay un desequilibrio puntual, una chispa. La corriente eléctrica sería como abrir todos los cubos en fila y dejar que el agua fluya de uno a otro sin parar.
+Pero en algunos materiales — el cobre de un cable, por ejemplo — los electrones de la capa exterior están poco sujetos al núcleo. Se pueden mover. Y cuando algo los empuja a moverse todos en la misma dirección, tenemos electricidad.
 
-El símil falla en un punto importante: el agua siempre cae hacia abajo por la gravedad, pero los electrones solo se mueven cuando hay una diferencia de potencial (una "presión eléctrica") que los empuja. Sin esa diferencia, no hay movimiento aunque el material sea conductor.
+Hay dos formas de que esto ocurra. Si las cargas se acumulan en un sitio sin moverse, hablamos de **electricidad estática**. Si fluyen de forma continua y ordenada por un conductor, hablamos de **corriente eléctrica**. La primera da chispas. La segunda enciende ciudades.
+
+## Clic.
+
+Imagina que los electrones son personas en el metro.
+
+En una estación vacía, nadie se mueve. Todo en equilibrio. Eso es un material sin electricidad.
+
+Ahora llega un tren lleno. Empuja a la gente hacia el andén. La gente empuja a la gente de delante. Hay movimiento en cadena. Eso es la corriente eléctrica: no se mueven todos al mismo tiempo desde el principio hasta el final, sino que cada electrón empuja al siguiente.
+
+El símil falla en algo importante: en el metro la gente se mueve despacio. Los electrones, no. La señal eléctrica viaja casi a la velocidad de la luz. Por eso cuando enciendes una luz, no esperas a que los electrones recorran todo el cable desde la central. El empujón llega casi al instante.
 
 ## Para saber más
 
@@ -42,6 +52,6 @@ El símil falla en un punto importante: el agua siempre cae hacia abajo por la g
 ---
 
 <nav class="nav-conceptos">
-  <a href="/">← Volver al índice</a>
+  <a href="/temas/electricidad/">← Electricidad</a>
   <a href="/conceptos/electricidad-estatica/">Siguiente: Electricidad estática →</a>
 </nav>

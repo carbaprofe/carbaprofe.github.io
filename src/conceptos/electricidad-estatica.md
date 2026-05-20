@@ -14,25 +14,29 @@ fecha: 2026-05-20
 
 ## Definición
 
-La electricidad estática es el resultado de un desequilibrio de cargas eléctricas en la superficie de un material. Cuando dos objetos se frotan entre sí, los electrones de uno pueden pasar al otro. El objeto que gana electrones queda cargado negativamente; el que los pierde, positivamente.
+Te quitas el jersey de lana en invierno. Chasquido. A veces hasta ves la chispa en la oscuridad. O te peinas y el pelo se queda de punta, pegado al peine. O tocas el pomo de una puerta después de cruzar una moqueta y — zas — calambrazo.
 
-A diferencia de la corriente eléctrica, en la electricidad estática las cargas no circulan: se acumulan y permanecen quietas hasta que encuentran una vía para equilibrarse. Ese equilibrio puede producirse de forma lenta y silenciosa, o de forma brusca en forma de chispa o descarga.
+Eso es electricidad estática. Y no es un fallo del universo. Es física.
 
-Las cargas del mismo signo se repelen entre sí; las de signo contrario se atraen. Esta regla, sencilla pero poderosa, explica desde por qué el pelo se eriza al quitarse un jersey hasta por qué un rayo cae de una nube a la tierra.
+Cuando dos materiales se frotan, los electrones de uno pueden saltar al otro. El que los pierde queda con carga positiva. El que los gana, con carga negativa. Las cargas no circulan: se quedan ahí, acumuladas, esperando.
 
-## El símil
+Y entonces pasa una de dos cosas. O se disipan poco a poco — por el aire húmedo, por contacto con otro material — o se descargan de golpe. Un chispazo. Un calambre. Un rayo.
 
-Imagina que inflas un globo y lo frotas contra tu cabeza. Los electrones de tu pelo saltan al globo: tu pelo queda con carga positiva, el globo con carga negativa. Como cargas opuestas se atraen, el pelo sigue al globo como si tuviese vida propia.
+Sí, un rayo es electricidad estática a escala atmosférica. Las nubes acumulan millones de cargas eléctricas por el roce de las partículas de agua y hielo. Cuando la diferencia es suficiente, se descargan hacia la tierra. Lo que ves como un rayo es ese equilibrio brusco. En décimas de segundo.
 
-Ahora acerca ese mismo globo a la pared. Los electrones de la superficie de la pared se repelen ante la carga negativa del globo y se alejan ligeramente, dejando la superficie más cercana con carga positiva. Cargas opuestas se atraen: el globo se pega.
+## Clic.
 
-El símil falla aquí: en el globo y el pelo la transferencia de carga es permanente hasta que el aire húmedo la disipa. En los circuitos eléctricos controlamos cuándo y cómo se mueven las cargas. La electricidad estática, en cambio, es impredecible y difícil de controlar.
+Frota un globo contra tu cabeza. Los electrones de tu pelo saltan al globo. Tu pelo queda con carga positiva, el globo con carga negativa. Como cargas opuestas se atraen, el pelo persigue al globo. Parece magia. Es electrostática.
+
+Ahora acerca ese globo a la pared. Los electrones de la pared se alejan de la carga negativa del globo, dejando la superficie más cercana con carga positiva. Opuestos se atraen. El globo se pega solo.
+
+El símil falla aquí: el globo pierde su carga en minutos, especialmente si el aire es húmedo. En los circuitos eléctricos controlamos exactamente cuándo y cómo se mueven las cargas. La electricidad estática, en cambio, va a su aire. Literalmente.
 
 ## Para saber más
 
-- [Khan Academy — Carga eléctrica](https://es.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-charge-tutorial/a/electric-charge) — introducción clara con ejemplos visuales
-- [NASA — Lightning](https://www.nasa.gov/centers-and-facilities/marshall/nasa-develops-new-tool-to-improve-lightning-safety/) — cómo la electricidad estática a escala atmosférica genera rayos (en inglés)
-- Tipler, P. *Física para la ciencia y la tecnología*. Reverté — referencia académica estándar en bachillerato y universidad
+- [Khan Academy — Carga eléctrica](https://es.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/electric-charge-tutorial/a/electric-charge) — introducción clara con ejemplos visuales, en español
+- [NASA Science — Lightning](https://science.nasa.gov/earth/weather-events/lightning/) — la electricidad estática que parte el cielo (en inglés)
+- Tipler, P. *Física para la ciencia y la tecnología*. Reverté — referencia académica estándar
 
 ## En el currículo
 
