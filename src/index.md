@@ -8,6 +8,7 @@ title: "Inicio"
 ## Tecnología y Digitalización
 
 - [¿Qué es la electricidad?](/conceptos/electricidad-concepto/)
+- [Electricidad estática](/conceptos/electricidad-estatica/)
 
 ## Inteligencia Artificial para la Sociedad
 
