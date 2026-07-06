@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Introducción a la electrónica"
+permalink: "/conceptos/electricidad-electronica/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
 bloque: "Bloque 3: Elementos de máquinas, sistemas e robots"

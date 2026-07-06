@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Magnitudes eléctricas: tensión, intensidad y resistencia"
+permalink: "/conceptos/electricidad-magnitudes/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
 bloque: "Bloque 3: Elementos de máquinas, sistemas e robots"

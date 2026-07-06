@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "¿Qué es la electricidad?"
+permalink: "/conceptos/electricidad-concepto/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
 bloque: "Bloque 3: Elementos de máquinas, sistemas e robots"

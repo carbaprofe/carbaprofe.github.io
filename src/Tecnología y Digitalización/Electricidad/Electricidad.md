@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Electricidad"
+permalink: "/temas/electricidad/"
 ---
 
 # Electricidad
