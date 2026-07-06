@@ -8,6 +8,7 @@ title: "Inicio"
 ## Tecnología y Digitalización
 
 - [[Electricidad]]
+- [[Mecanismos]]
 
 ## Inteligencia Artificial para la Sociedad
 
