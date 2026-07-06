@@ -7,7 +7,7 @@ title: "Inicio"
 
 ## Tecnología y Digitalización
 
-- [Electricidad](/temas/electricidad/)
+- [[Electricidad]]
 
 ## Inteligencia Artificial para la Sociedad
 

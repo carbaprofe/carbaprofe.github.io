@@ -3,9 +3,9 @@ layout: base.njk
 title: "¿Qué es la electricidad?"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
-bloque: "Bloque 3: Electricidad y electrónica"
-tags: [electricidad, átomo, electrón, ESO]
-fecha: 2026-05-20
+bloque: "Bloque 3: Elementos de máquinas, sistemas e robots"
+tags: [electricidad, átomo, protón, neutrón, electrón, ESO]
+fecha: 2026-07-06
 ---
 
 # ¿Qué es la electricidad?
@@ -14,27 +14,23 @@ fecha: 2026-05-20
 
 ## Definición
 
-Tienes el móvil en la mano. Lo enchufas. Se carga. Normal, ¿no?
+Enchufas el móvil. Se carga. Nada raro.
 
-Pero para que eso ocurra, millones de partículas diminutas están moviéndose en este momento por el cable. Sin que las veas. Sin que las oigas. A una velocidad que no puedes imaginar.
+Pero dentro de ese cable está pasando algo que no ves: millones de partículas moviéndose a toda velocidad. Eso es la electricidad.
 
-Esas partículas son los **electrones**. Y su movimiento es lo que llamamos electricidad.
+Todo lo que existe está hecho de átomos. Un átomo tiene tres piezas. En el núcleo, los protones, con carga positiva, y los neutrones, sin carga. Girando alrededor, los electrones, con carga negativa. En un átomo normal hay el mismo número de protones que de electrones. Las cargas se anulan. El átomo queda neutro.
 
-Todo lo que existe está formado por átomos. En el centro de cada átomo hay un núcleo con partículas de carga positiva, los **protones**. Girando alrededor, con carga negativa, están los **electrones**. Normalmente se compensan: el átomo es neutro, no hace nada especial.
+En algunos materiales — el cobre de un cable, por ejemplo — los electrones de la capa más externa apenas están sujetos al núcleo. Pueden saltar de un átomo a otro. Cuando algo obliga a esos electrones a moverse todos en la misma dirección, aparece la electricidad.
 
-Pero en algunos materiales — el cobre de un cable, por ejemplo — los electrones de la capa exterior están poco sujetos al núcleo. Se pueden mover. Y cuando algo los empuja a moverse todos en la misma dirección, tenemos electricidad.
+Hay dos formas de que esto pase. Si las cargas se acumulan en un punto y se quedan quietas, es electricidad estática. Si se mueven de forma continua por un conductor, es corriente eléctrica.
 
-Hay dos formas de que esto ocurra. Si las cargas se acumulan en un sitio sin moverse, hablamos de **electricidad estática**. Si fluyen de forma continua y ordenada por un conductor, hablamos de **corriente eléctrica**. La primera da chispas. La segunda enciende ciudades.
+La electricidad no es una sustancia que corre por el cable. Es un movimiento. El movimiento de los electrones.
 
 ## Clic.
 
-Imagina que los electrones son personas en el metro.
+Piensa en una manguera llena de agua, del grifo a la punta. Abres el grifo y el agua sale por el otro extremo casi al instante. No porque esa agua concreta haya recorrido la manguera entera en una fracción de segundo — ya estaba ahí. El empujón inicial es lo único que hace falta.
 
-En una estación vacía, nadie se mueve. Todo en equilibrio. Eso es un material sin electricidad.
-
-Ahora llega un tren lleno. Empuja a la gente hacia el andén. La gente empuja a la gente de delante. Hay movimiento en cadena. Eso es la corriente eléctrica: no se mueven todos al mismo tiempo desde el principio hasta el final, sino que cada electrón empuja al siguiente.
-
-El símil falla en algo importante: en el metro la gente se mueve despacio. Los electrones, no. La señal eléctrica viaja casi a la velocidad de la luz. Por eso cuando enciendes una luz, no esperas a que los electrones recorran todo el cable desde la central. El empujón llega casi al instante.
+Con los electrones pasa igual. El cable ya está lleno de ellos. Cuando pulsas un interruptor, la luz no espera a que un electrón viaje desde la central eléctrica hasta la bombilla. El empujón se transmite de electrón a electrón, casi a la velocidad de la luz. Por eso la luz se enciende al instante.
 
 ## Para saber más
 
@@ -44,10 +40,10 @@ El símil falla en algo importante: en el metro la gente se mueve despacio. Los 
 
 ## En el currículo
 
-**Materia**: Tecnología y Digitalización  
-**Curso**: 2º ESO  
-**Bloque**: Bloque 3: Electricidad y electrónica  
-**Referencia LOMLOE**: RD 217/2022, de 29 de marzo
+**Materia**: Tecnología y Digitalización
+**Curso**: 2º ESO
+**Bloque**: Bloque 3: Elementos de máquinas, sistemas e robots
+**Referencia normativa**: Decreto 156/2022, do 26 de setembro (DOG núm. 183)
 
 ---
 

@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/carbaprofe/carbaprofe.github.io#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.5"
+    "@11ty/eleventy": "^3.1.5",
+    "@photogabble/eleventy-plugin-interlinker": "^1.1.2"
   }
 }

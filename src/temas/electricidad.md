@@ -9,8 +9,8 @@ title: "Electricidad"
 
 ## Conceptos
 
-- [¿Qué es la electricidad?](/conceptos/electricidad-concepto/)
-- [Electricidad estática](/conceptos/electricidad-estatica/)
+- [[¿Qué es la electricidad?]]
+- [[Electricidad estática]]
 
 ---
 

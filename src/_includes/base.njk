@@ -12,6 +12,17 @@
   </header>
   <main>
     {{ content | safe }}
+
+    {% if backlinks.length > 0 %}
+    <nav class="backlinks">
+      <h3>Enlazado desde</h3>
+      <ul>
+        {% for link in backlinks %}
+        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
   </main>
 </body>
 </html>
