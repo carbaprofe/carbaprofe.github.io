@@ -7,8 +7,9 @@ title: "Inicio"
 
 ## Tecnología y Digitalización
 
-- [[Electricidad]]
+- [[El proyecto tecnológico]]
 - [[Mecanismos]]
+- [[Electricidad]]
 
 ## Inteligencia Artificial para la Sociedad
 
