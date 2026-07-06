@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
+                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulario bilingüe- TIC"
+              "title": "Bienestar digital- uso responsable de la tecnología"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
+                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Vocabulario bilingüe- TIC"
+              "title": "Enlaces entrantes de Bienestar digital- uso responsable de la tecnología"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
+                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Vocabulario bilingüe- TIC"
+              "title": "Enlaces salientes de Bienestar digital- uso responsable de la tecnología"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
+                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Vocabulario bilingüe- TIC"
+              "title": "Esquema de Bienestar digital- uso responsable de la tecnología"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "9c7c7a6cc20b7a78",
   "lastOpenFiles": [
+    "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
+    "TIC en proceso tecnológico/Vocabulario bilingüe- TIC.md",
+    "TIC en proceso tecnológico/Utilización das TIC no proceso tecnolóxico.md",
+    "TIC en proceso tecnológico/Software- sistema operativo y programas.md",
+    "TIC en proceso tecnológico/Seguridad en la red- riesgos y amenazas.md",
+    "TIC en proceso tecnológico/Propiedad intelectual y etiqueta digital.md",
+    "TIC en proceso tecnológico/Plataformas de aprendizaje- configuración y uso crítico.md",
+    "TIC en proceso tecnológico/Periféricos- dispositivos de entrada y salida.md",
+    "TIC en proceso tecnológico/Organización y almacenamiento seguro de la información.md",
+    "TIC en proceso tecnológico/Hardware- el interior del ordenador.md",
+    "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+    "TIC en proceso tecnológico",
     "Utilización das TIC no proceso tecnolóxico/Utilización das TIC no proceso tecnolóxico.md",
     "Utilización das TIC no proceso tecnolóxico/Software- sistema operativo y programas.md",
     "Utilización das TIC no proceso tecnolóxico/Seguridad en la red- riesgos y amenazas.md",
@@ -195,24 +207,13 @@
     "Utilización das TIC no proceso tecnolóxico/Hardware- el interior del ordenador.md",
     "Utilización das TIC no proceso tecnolóxico/Bienestar digital- uso responsable de la tecnología.md",
     "Deseño e fabricación/Vistas de un objeto- alzado, planta y perfil.md",
-    "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
     "Utilización das TIC no proceso tecnolóxico",
     "Deseño e fabricación/Representación en perspectiva- isométrica y caballera.md",
     "Deseño e fabricación/Boceto, croquis y dibujo técnico.md",
     "Deseño e fabricación/Vocabulario bilingüe- Diseño y fabricación.md",
     "Deseño e fabricación/Herramientas CAD- diseño en 2D y 3D.md",
     "Deseño e fabricación/Escalas.md",
-    "Deseño e fabricación/Acotación- líneas y normas.md",
-    "Deseño e fabricación/Deseño e fabricación.md",
-    "Deseño e fabricación/Impresión 3D- proceso y materiales.md",
     "Deseño e fabricación",
-    "El proyecto tecnológico/Presupuesto- cálculo de costes de un proyecto.md",
-    "El proyecto tecnológico/Cambio de unidades- magnitudes lineales y superficiales.md",
-    "El proyecto tecnológico/Productos tecnológicos- ciclo comercial.md",
-    "El proyecto tecnológico/Diseñar- documentos técnicos.md",
-    "El proyecto tecnológico/Construir y evaluar.md",
-    "El proyecto tecnológico/El proyecto tecnológico.md",
-    "El proyecto tecnológico/¿Qué es la tecnología?.md",
     "El proyecto tecnológico",
     "Mecanismos"
   ]
