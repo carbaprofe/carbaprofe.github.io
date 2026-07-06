@@ -42,6 +42,6 @@ Si al terminar el prototipo apenas se parece a los planos originales, no es un f
 ---
 
 <nav class="nav-conceptos">
-  <a href="/conceptos/tecnologia-disenar/">← Diseñar: documentos técnicos</a>
+  <a href="/conceptos/tecnologia-presupuesto/">← Presupuesto: cálculo de costes</a>
   <a href="/conceptos/tecnologia-ciclo-comercial/">Siguiente: Productos tecnológicos: ciclo comercial →</a>
 </nav>

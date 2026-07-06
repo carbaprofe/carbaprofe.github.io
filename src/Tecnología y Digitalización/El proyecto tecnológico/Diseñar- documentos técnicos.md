@@ -45,5 +45,5 @@ Fíjate en el nivel de detalle: nada se deja "aproximado". Esa precisión es la 
 
 <nav class="nav-conceptos">
   <a href="/conceptos/tecnologia-analisis-objetos/">← Búsqueda de información y análisis de objetos</a>
-  <a href="/conceptos/tecnologia-construir-evaluar/">Siguiente: Construir y evaluar →</a>
+  <a href="/conceptos/tecnologia-presupuesto/">Siguiente: Presupuesto: cálculo de costes →</a>
 </nav>
