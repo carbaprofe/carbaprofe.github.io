@@ -9,6 +9,7 @@ title: "Inicio"
 
 - [[El proyecto tecnológico]]
 - [[Deseño e fabricación]]
+- [[Utilización das TIC no proceso tecnolóxico]]
 - [[Mecanismos]]
 - [[Electricidad]]
 
