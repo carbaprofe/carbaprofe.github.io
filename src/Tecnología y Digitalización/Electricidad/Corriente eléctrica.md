@@ -23,6 +23,8 @@ La cantidad de corriente que circula se llama intensidad, se mide en amperios (A
 
 Hay dos tipos de corriente. La corriente continua (CC) siempre fluye en la misma dirección — así funciona una pila. La corriente alterna (CA) cambia de dirección muchas veces por segundo — así llega la electricidad a los enchufes de tu casa. En el aula trabajamos con corriente continua: es más simple y más segura.
 
+Cada terminal de un generador se llama polo eléctrico. El polo negativo (o cátodo) es el de menor tensión, por el que salen los electrones. El polo positivo (o ánodo) es el de mayor tensión, por el que entran.
+
 ## Clic.
 
 Piensa en una pista de atletismo circular. Un corredor solo puede completar vueltas si la pista forma un círculo cerrado. Si cortas la pista en un punto, el corredor llega hasta el corte y ya no puede seguir.

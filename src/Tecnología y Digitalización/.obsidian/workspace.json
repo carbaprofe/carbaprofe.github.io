@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "e1f26d879d62c862",
+    "id": "40ea5ac023be4f9e",
     "type": "split",
     "children": [
       {
-        "id": "022c99d57676c1d5",
+        "id": "cea7d59e5e66db7d",
         "type": "tabs",
         "children": [
           {
-            "id": "b054c71edfcbbc71",
+            "id": "9c7c7a6cc20b7a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Electricidad/Componentes característicos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Componentes característicos"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8f056869f65eb03",
+    "id": "6edcc9d3ed22ecaf",
     "type": "split",
     "children": [
       {
-        "id": "4ce3788af70e546e",
+        "id": "c62a7373bffd09f1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c25530a46e410a3",
+            "id": "59da0c067dc3173e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "10f036f666c6d9c4",
+            "id": "4485c43f209a6982",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "8e6aa10d343a4f01",
+            "id": "556ea3d622da34d9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b5b4b0533321dcef",
+    "id": "2e5215e16bc0f77b",
     "type": "split",
     "children": [
       {
-        "id": "fd020297c91865cc",
+        "id": "4b6cf5267b770155",
         "type": "tabs",
         "children": [
           {
-            "id": "9ebac55b729c84fa",
+            "id": "3ff1e03a28f0f212",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/temas/electricidad.md",
+                "file": "Electricidad/Componentes característicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de electricidad"
+              "title": "Enlaces entrantes de Componentes característicos"
             }
           },
           {
-            "id": "aa291de9c403d002",
+            "id": "35b6d0b34758e88f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/temas/electricidad.md",
+                "file": "Electricidad/Componentes característicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de electricidad"
+              "title": "Enlaces salientes de Componentes característicos"
             }
           },
           {
-            "id": "e8d6b65a605b28b7",
+            "id": "f1dfd84c2bccd6ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +137,7 @@
             }
           },
           {
-            "id": "fd87b93686cecba8",
+            "id": "bcde4f3259845641",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +151,18 @@
             }
           },
           {
-            "id": "62d9e24d3d1863d2",
+            "id": "e43f3e893dc34b07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/temas/electricidad.md",
+                "file": "Electricidad/Componentes característicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de electricidad"
+              "title": "Esquema de Componentes característicos"
             }
           }
         ]
@@ -179,19 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b054c71edfcbbc71",
+  "active": "9c7c7a6cc20b7a78",
   "lastOpenFiles": [
-    "src/temas/electricidad.md",
-    "src/conceptos/electricidad-estatica.md",
-    "src/conceptos/electricidad-corriente.md",
-    "src/conceptos/electricidad-magnitudes.md",
-    "Componentes eléctricos y simbología.md",
-    "src/index.md",
-    "Corriente eléctrica.md",
-    "Electricidad estática.md",
-    "Potencia eléctrica.md",
-    "Sin título.canvas",
-    "src/conceptos/electricidad-circuitos.md",
-    "src/conceptos/electricidad-energia.md"
+    "Electricidad/Componentes eléctricos y simbología.md",
+    "Electricidad/Circuitos eléctricos.md",
+    "Electricidad/¿Qué es la electricidad?.md"
   ]
 }

@@ -18,8 +18,11 @@ permalink: "/temas/electricidad/"
 - [[Potencia eléctrica]]
 - [[Energía eléctrica]]
 - [[Circuitos eléctricos: serie y paralelo]]
+- [[Resolución de circuitos: resistencia equivalente]]
 - [[Componentes eléctricos y simbología]]
+- [[Componentes característicos]]
 - [[Introducción a la electrónica]]
+- [[Vocabulario bilingüe: Electricidad]]
 
 ---
 

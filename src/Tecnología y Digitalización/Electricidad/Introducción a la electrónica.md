@@ -47,6 +47,6 @@ Una bombilla normal no distingue sentidos: se enciende la conectes como la conec
 ---
 
 <nav class="nav-conceptos">
-  <a href="/conceptos/electricidad-componentes/">← Componentes y simbología</a>
-  <a href="/temas/electricidad/">Volver a Electricidad →</a>
+  <a href="/conceptos/electricidad-componentes-caracteristicos/">← Componentes característicos</a>
+  <a href="/conceptos/electricidad-vocabulario/">Siguiente: Vocabulario bilingüe →</a>
 </nav>

@@ -48,5 +48,5 @@ Esa es la razón por la que las instalaciones domésticas se hacen siempre en pa
 
 <nav class="nav-conceptos">
   <a href="/conceptos/electricidad-energia/">← Energía eléctrica</a>
-  <a href="/conceptos/electricidad-componentes/">Siguiente: Componentes y simbología →</a>
+  <a href="/conceptos/electricidad-resolucion-circuitos/">Siguiente: Resolución de circuitos →</a>
 </nav>

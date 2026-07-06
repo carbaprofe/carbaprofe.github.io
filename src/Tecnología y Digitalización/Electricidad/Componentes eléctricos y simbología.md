@@ -17,10 +17,11 @@ fecha: 2026-07-06
 
 Todo circuito se dibuja como un esquema: un plano con símbolos en vez de fotos de los componentes reales. Los símbolos están normalizados, así que un esquema dibujado en España se entiende igual en cualquier otro país.
 
-Los componentes se agrupan en tres categorías, según su función en el circuito — [[Corriente eléctrica]]:
+Los componentes se agrupan en cuatro categorías, según su función en el circuito — [[Corriente eléctrica]]:
 
 - **Generador**: aporta la energía que mueve la corriente.
-- **Elemento de manobra o control**: permite abrir, cerrar o limitar el paso de corriente.
+- **Conductor**: transporta la corriente del generador a los receptores.
+- **Elemento de control**: permite abrir, cerrar o limitar el paso de corriente.
 - **Receptor**: aprovecha la corriente para producir luz, movimiento o sonido.
 
 ## Tabla de componentes
@@ -28,12 +29,12 @@ Los componentes se agrupan en tres categorías, según su función en el circuit
 | Componente | Categoría | Símbolo (esquema) |
 |---|---|---|
 | Pila / batería | Generador | Dos líneas paralelas repetidas, una larga y una corta — la larga es el polo positivo |
-| Interruptor | Elemento de manobra o control | Línea partida por un corte, con una palanca que abre o cierra el paso |
-| Pulsador | Elemento de manobra o control | Como el interruptor, pero solo hace contacto mientras se mantiene presionado |
-| Resistencia | Elemento de manobra o control | Rectángulo alargado atravesado por la línea del circuito |
+| Cable | Conductor | Una simple línea recta que une los demás símbolos |
+| Interruptor | Elemento de control | Línea partida por un corte, con una palanca que abre o cierra el paso |
+| Pulsador | Elemento de control | Como el interruptor, pero solo hace contacto mientras se mantiene presionado |
 | Bombilla / lámpara | Receptor | Círculo con una X en el interior |
 | Motor | Receptor | Círculo con la letra M en el interior |
-| Zumbador / timbre | Receptor | Semicírculo con dos líneas de conexión |
+| Zumbador / timbre | Receptor | Forma trapezoidal con dos líneas de conexión |
 
 ## Clic.
 
@@ -41,7 +42,9 @@ Un esquema es un idioma visual, igual que las señales de tráfico. No necesitas
 
 Por eso los símbolos no se inventan: se aprenden, como un vocabulario. Cuantos más reconozcas de un vistazo, más rápido lees cualquier esquema.
 
-**Tarea**: dibuja en tu cuaderno el símbolo de cada uno de los 7 componentes de la tabla, y clasifícalos por categoría (generador / elemento de manobra o control / receptor) sin mirar la tabla.
+**Tarea**: dibuja en tu cuaderno el símbolo de cada uno de los 7 componentes de la tabla, y clasifícalos por categoría (generador / conductor / elemento de control / receptor) sin mirar la tabla.
+
+Otros componentes más específicos — resistencia, potenciómetro, LED, conmutador — tienen su propia píldora: [[Componentes característicos]].
 
 ## Para saber más
 
@@ -58,6 +61,6 @@ Por eso los símbolos no se inventan: se aprenden, como un vocabulario. Cuantos 
 ---
 
 <nav class="nav-conceptos">
-  <a href="/conceptos/electricidad-circuitos/">← Circuitos eléctricos</a>
-  <a href="/conceptos/electricidad-electronica/">Siguiente: Introducción a la electrónica →</a>
+  <a href="/conceptos/electricidad-resolucion-circuitos/">← Resolución de circuitos</a>
+  <a href="/conceptos/electricidad-componentes-caracteristicos/">Siguiente: Componentes característicos →</a>
 </nav>
