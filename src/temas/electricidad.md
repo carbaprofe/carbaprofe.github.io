@@ -11,6 +11,14 @@ title: "Electricidad"
 
 - [[¿Qué es la electricidad?]]
 - [[Electricidad estática]]
+- [[Corriente eléctrica]]
+- [[Magnitudes eléctricas: tensión, intensidad y resistencia]]
+- [[Ley de Ohm]]
+- [[Potencia eléctrica]]
+- [[Energía eléctrica]]
+- [[Circuitos eléctricos: serie y paralelo]]
+- [[Componentes eléctricos y simbología]]
+- [[Introducción a la electrónica]]
 
 ---
 
