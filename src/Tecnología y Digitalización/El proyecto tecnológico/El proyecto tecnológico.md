@@ -17,6 +17,7 @@ permalink: "/temas/proyecto-tecnologico/"
 - [[Analizar: definir el problema]]
 - [[Analizar: búsqueda de información y análisis de objetos]]
 - [[Diseñar: documentos técnicos]]
+- [[Cambio de unidades: magnitudes lineales y superficiales]]
 - [[Presupuesto: cálculo de costes de un proyecto]]
 - [[Construir y evaluar]]
 - [[Productos tecnológicos: ciclo comercial]]

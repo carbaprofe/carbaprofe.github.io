@@ -8,6 +8,7 @@ title: "Inicio"
 ## Tecnología y Digitalización
 
 - [[El proyecto tecnológico]]
+- [[Deseño e fabricación]]
 - [[Mecanismos]]
 - [[Electricidad]]
 

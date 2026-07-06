@@ -66,6 +66,6 @@ Esa es la ventaja real de hacerlo en digitalización y no en papel: el presupues
 ---
 
 <nav class="nav-conceptos">
-  <a href="/conceptos/tecnologia-disenar/">← Diseñar: documentos técnicos</a>
+  <a href="/conceptos/tecnologia-cambio-unidades/">← Cambio de unidades</a>
   <a href="/conceptos/tecnologia-construir-evaluar/">Siguiente: Construir y evaluar →</a>
 </nav>
