@@ -18,7 +18,6 @@ permalink: "/temas/ia1-concepto-historia/"
 - [[Historia de la IA: de Turing a hoy]]
 - [[IA débil y IA fuerte]]
 - [[La IA en la sociedad: campos de aplicación]]
-- [[Vocabulario bilingüe: Concepto e historia de la IA]]
 
 ---
 

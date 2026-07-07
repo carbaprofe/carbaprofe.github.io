@@ -20,3 +20,6 @@ title: "Inicio"
 
 - [[Concepto e historia de la IA]]
 - [[Impacto de la IA]]
+- [[La IA que percibe y actúa]]
+- [[La IA que piensa y aprende]]
+- [[IA aplicada]]

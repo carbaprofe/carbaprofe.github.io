@@ -54,5 +54,5 @@ Antes de seguir leyendo, para un momento y cuenta cuántas IAs has usado hoy sin
 
 <nav class="nav-conceptos">
   <a href="/conceptos/ia1-debil-fuerte/">← IA débil y IA fuerte</a>
-  <a href="/conceptos/ia1-vocabulario/">Siguiente: Vocabulario bilingüe →</a>
+  <a href="/temas/ia1-concepto-historia/">Volver a Concepto e historia de la IA →</a>
 </nav>

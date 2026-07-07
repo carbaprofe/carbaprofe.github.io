@@ -45,5 +45,5 @@ Una sola consulta a una IA generativa puede consumir del orden de 0,3 Wh. No par
 
 <nav class="nav-conceptos">
   <a href="/conceptos/ia2-legislacion/">← La legislación de la IA</a>
-  <a href="/conceptos/ia2-vocabulario/">Siguiente: Vocabulario bilingüe →</a>
+  <a href="/temas/ia2-impacto/">Volver a Impacto de la IA →</a>
 </nav>

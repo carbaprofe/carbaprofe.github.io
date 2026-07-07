@@ -18,7 +18,6 @@ permalink: "/temas/ia2-impacto/"
 - [[Sesgos, discriminación y responsabilidad en el diseño de la IA]]
 - [[La legislación de la IA]]
 - [[La IA para un futuro verde y sostenible]]
-- [[Vocabulario bilingüe: Impacto de la IA]]
 
 ---
 
