@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Circuitos eléctricos: serie y paralelo"
+aliases: ["Circuitos eléctricos: serie y paralelo"]
 permalink: "/conceptos/electricidad-circuitos/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

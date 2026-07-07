@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Presupuesto: cálculo de costes de un proyecto"
+aliases: ["Presupuesto: cálculo de costes de un proyecto"]
 permalink: "/conceptos/tecnologia-presupuesto/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

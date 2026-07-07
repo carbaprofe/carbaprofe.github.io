@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Acotación: líneas y normas"
+aliases: ["Acotación: líneas y normas"]
 permalink: "/conceptos/diseno-acotacion/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cea7d59e5e66db7d",
+        "id": "3969a1f23ce914f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7c7a6cc20b7a78",
+            "id": "460696ad846d69bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+                "file": "Sistemas de control y robots/Sistemas de control y robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienestar digital- uso responsable de la tecnología"
+              "title": "Sistemas de control y robots"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienestar digital- uso responsable de la tecnología"
+              "title": "Enlaces entrantes de Vocabulario bilingüe- Documentación de proyectos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienestar digital- uso responsable de la tecnología"
+              "title": "Enlaces salientes de Vocabulario bilingüe- Documentación de proyectos"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Bienestar digital- uso responsable de la tecnología"
+              "title": "Esquema de Vocabulario bilingüe- Documentación de proyectos"
             }
           }
         ]
@@ -183,38 +183,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9c7c7a6cc20b7a78",
+  "active": "460696ad846d69bd",
   "lastOpenFiles": [
-    "Utilización das TIC no proceso tecnolóxico/Vocabulario bilingüe- TIC.md",
-    "TIC en proceso tecnológico/Vocabulario bilingüe- TIC.md",
-    "TIC en proceso tecnológico/Utilización das TIC no proceso tecnolóxico.md",
-    "TIC en proceso tecnológico/Software- sistema operativo y programas.md",
-    "TIC en proceso tecnológico/Seguridad en la red- riesgos y amenazas.md",
-    "TIC en proceso tecnológico/Propiedad intelectual y etiqueta digital.md",
-    "TIC en proceso tecnológico/Plataformas de aprendizaje- configuración y uso crítico.md",
+    "Sistemas de control y robots/Sistemas de control y robots- componentes y funcionamiento.md",
+    "Mecanismos/¿Qué es un mecanismo?.md",
+    "Sistemas de control y robots/Sistemas de control y robots.md",
+    "Sistemas de control y robots/Actuadores.md",
+    "Programación/Vocabulario bilingüe- Programación.md",
+    "Sistemas de control y robots/Vocabulario bilingüe- Sistemas de control y robots.md",
+    "Sistemas de control y robots/Diseño y montaje de un robot sencillo.md",
+    "Sistemas de control y robots/Internet de las cosas (IoT).md",
+    "Sistemas de control y robots/Controladores- la toma de decisiones de un sistema.md",
+    "Sistemas de control y robots/Controladores- la toma de decisiones de un sistema.md.tmp.37278.b29268055c54",
+    "Sistemas de control y robots/Sensores.md",
+    "Sistemas de control y robots",
+    "Programación/Introducción a la inteligencia artificial.md",
+    "Programación/Depuración de errores.md",
+    "Programación/Programación por bloques con Blockly.md",
+    "Programación/Estructuras de control- secuencial, condicional y repetitiva.md",
+    "Programación/Diagramas de flujo.md",
+    "Programación/Programación y algoritmos.md",
+    "Programación/Programación.md",
+    "Documentación de proyectos/Comunicación y trabajo colaborativo en entornos virtuales.md",
+    "Programación",
+    "Clippings/DOG 161 del 2582023 - ORDEN de 9 de agosto de 2023 por la que se amplía la relación de materias optativas de la educación secundaria obligatoria y se establece su currículo..md",
+    "Clippings",
+    "Mecanismos/Ruedas de fricción y poleas con correa.md",
+    "Mecanismos/Poleas y polipastos.md",
+    "Mecanismos/Piñones y cadena.md",
+    "Mecanismos/Piñón-cremallera y tornillo-tuerca.md",
+    "Sin título.canvas",
+    "2026-07-06.md",
+    "Sin título 1.canvas",
     "TIC en proceso tecnológico/Periféricos- dispositivos de entrada y salida.md",
-    "TIC en proceso tecnológico/Organización y almacenamiento seguro de la información.md",
-    "TIC en proceso tecnológico/Hardware- el interior del ordenador.md",
-    "TIC en proceso tecnológico/Bienestar digital- uso responsable de la tecnología.md",
+    "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
+    "Documentación de proyectos",
+    "Diseño y fabricación",
     "TIC en proceso tecnológico",
-    "Utilización das TIC no proceso tecnolóxico/Utilización das TIC no proceso tecnolóxico.md",
-    "Utilización das TIC no proceso tecnolóxico/Software- sistema operativo y programas.md",
-    "Utilización das TIC no proceso tecnolóxico/Seguridad en la red- riesgos y amenazas.md",
-    "Utilización das TIC no proceso tecnolóxico/Propiedad intelectual y etiqueta digital.md",
-    "Utilización das TIC no proceso tecnolóxico/Plataformas de aprendizaje- configuración y uso crítico.md",
-    "Utilización das TIC no proceso tecnolóxico/Periféricos- dispositivos de entrada y salida.md",
-    "Utilización das TIC no proceso tecnolóxico/Organización y almacenamiento seguro de la información.md",
-    "Utilización das TIC no proceso tecnolóxico/Hardware- el interior del ordenador.md",
-    "Utilización das TIC no proceso tecnolóxico/Bienestar digital- uso responsable de la tecnología.md",
-    "Deseño e fabricación/Vistas de un objeto- alzado, planta y perfil.md",
     "Utilización das TIC no proceso tecnolóxico",
-    "Deseño e fabricación/Representación en perspectiva- isométrica y caballera.md",
-    "Deseño e fabricación/Boceto, croquis y dibujo técnico.md",
-    "Deseño e fabricación/Vocabulario bilingüe- Diseño y fabricación.md",
-    "Deseño e fabricación/Herramientas CAD- diseño en 2D y 3D.md",
-    "Deseño e fabricación/Escalas.md",
     "Deseño e fabricación",
-    "El proyecto tecnológico",
-    "Mecanismos"
+    "El proyecto tecnológico"
   ]
 }

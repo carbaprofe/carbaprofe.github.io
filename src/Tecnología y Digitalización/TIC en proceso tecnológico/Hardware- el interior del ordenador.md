@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Hardware: el interior del ordenador"
+aliases: ["Hardware: el interior del ordenador"]
 permalink: "/conceptos/tic-hardware/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
@@ -49,6 +50,6 @@ Para hacerte una idea de escala: un mensaje de texto ocupa unos 100 bytes, un do
 ---
 
 <nav class="nav-conceptos">
-  <a href="/temas/tic-proceso-tecnologico/">← TIC no proceso tecnolóxico</a>
+  <a href="/temas/tic-proceso-tecnologico/">← TIC en proceso tecnológico</a>
   <a href="/conceptos/tic-perifericos/">Siguiente: Periféricos →</a>
 </nav>

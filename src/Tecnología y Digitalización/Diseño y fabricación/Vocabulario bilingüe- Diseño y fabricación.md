@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vocabulario bilingüe: Diseño y fabricación"
+aliases: ["Vocabulario bilingüe: Diseño y fabricación"]
 permalink: "/conceptos/diseno-vocabulario/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
@@ -106,5 +107,5 @@ fecha: 2026-07-06
 
 <nav class="nav-conceptos">
   <a href="/conceptos/diseno-impresion-3d/">← Impresión 3D</a>
-  <a href="/temas/diseno-fabricacion/">Volver a Deseño e fabricación →</a>
+  <a href="/temas/diseno-fabricacion/">Volver a Diseño y fabricación →</a>
 </nav>

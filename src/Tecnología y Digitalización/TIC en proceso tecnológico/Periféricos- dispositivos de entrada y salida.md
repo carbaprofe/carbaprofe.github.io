@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Periféricos: dispositivos de entrada y salida"
+aliases: ["Periféricos: dispositivos de entrada y salida"]
 permalink: "/conceptos/tic-perifericos/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

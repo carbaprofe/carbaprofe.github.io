@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vocabulario bilingüe: Mecanismos"
+aliases: ["Vocabulario bilingüe: Mecanismos"]
 permalink: "/conceptos/mecanismos-vocabulario/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

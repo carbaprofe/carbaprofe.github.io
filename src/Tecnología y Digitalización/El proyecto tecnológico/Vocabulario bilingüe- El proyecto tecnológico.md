@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vocabulario bilingüe: El proyecto tecnológico"
+aliases: ["Vocabulario bilingüe: El proyecto tecnológico"]
 permalink: "/conceptos/tecnologia-vocabulario/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

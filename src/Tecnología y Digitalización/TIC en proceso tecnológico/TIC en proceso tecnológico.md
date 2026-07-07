@@ -1,14 +1,14 @@
 ---
 layout: base.njk
-title: "Utilización das TIC no proceso tecnolóxico"
+title: "TIC en proceso tecnológico"
 permalink: "/temas/tic-proceso-tecnologico/"
 ---
 
-# Utilización das TIC no proceso tecnolóxico
+# TIC en proceso tecnológico
 
 <p class="meta">Tecnología y Digitalización · 2º ESO</p>
 
-<p class="meta">UD3 · 5 sesións · Peso: 5 % · 1º trimestre · Instrumento de avaliación: Táboa de indicadores (100 %)</p>
+<p class="meta">UD3 · 5 sesiones · Peso: 5 % · 1º trimestre · Instrumento de evaluación: Tabla de indicadores (100 %)</p>
 
 ## Conceptos
 

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Analizar: búsqueda de información y análisis de objetos"
+aliases: ["Analizar: búsqueda de información y análisis de objetos"]
 permalink: "/conceptos/tecnologia-analisis-objetos/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

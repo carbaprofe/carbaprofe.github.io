@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vistas de un objeto: alzado, planta y perfil"
+aliases: ["Vistas de un objeto: alzado, planta y perfil"]
 permalink: "/conceptos/diseno-vistas/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Seguridad en la red: riesgos y amenazas"
+aliases: ["Seguridad en la red: riesgos y amenazas"]
 permalink: "/conceptos/tic-seguridad-red/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

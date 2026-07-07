@@ -8,10 +8,13 @@ title: "Inicio"
 ## Tecnología y Digitalización
 
 - [[El proyecto tecnológico]]
-- [[Deseño e fabricación]]
-- [[Utilización das TIC no proceso tecnolóxico]]
+- [[Diseño y fabricación]]
+- [[TIC en proceso tecnológico]]
 - [[Mecanismos]]
+- [[Documentación de proyectos]]
 - [[Electricidad]]
+- [[Programación]]
+- [[Sistemas de control y robots]]
 
 ## Inteligencia Artificial para la Sociedad
 

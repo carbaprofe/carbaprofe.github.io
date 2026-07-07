@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Tecnología sostenible: innovación y obsolescencia"
+aliases: ["Tecnología sostenible: innovación y obsolescencia"]
 permalink: "/conceptos/tecnologia-sostenible/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

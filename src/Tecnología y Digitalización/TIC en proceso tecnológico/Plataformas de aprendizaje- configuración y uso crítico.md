@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Plataformas de aprendizaje: configuración y uso crítico"
+aliases: ["Plataformas de aprendizaje: configuración y uso crítico"]
 permalink: "/conceptos/tic-plataformas-aprendizaje/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

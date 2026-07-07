@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vocabulario bilingüe: Electricidad"
+aliases: ["Vocabulario bilingüe: Electricidad"]
 permalink: "/conceptos/electricidad-vocabulario/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

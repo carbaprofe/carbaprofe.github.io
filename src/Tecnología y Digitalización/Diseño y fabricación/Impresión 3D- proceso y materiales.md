@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Impresión 3D: proceso y materiales"
+aliases: ["Impresión 3D: proceso y materiales"]
 permalink: "/conceptos/diseno-impresion-3d/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

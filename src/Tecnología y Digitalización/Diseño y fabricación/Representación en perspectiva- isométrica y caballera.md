@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Representación en perspectiva: isométrica y caballera"
+aliases: ["Representación en perspectiva: isométrica y caballera"]
 permalink: "/conceptos/diseno-perspectiva/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

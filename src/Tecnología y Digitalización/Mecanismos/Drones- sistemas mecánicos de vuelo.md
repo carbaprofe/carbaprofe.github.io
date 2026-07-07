@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Drones: sistemas mecánicos de vuelo"
+aliases: ["Drones: sistemas mecánicos de vuelo"]
 permalink: "/conceptos/mecanismos-drones/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Diseñar: documentos técnicos"
+aliases: ["Diseñar: documentos técnicos"]
 permalink: "/conceptos/tecnologia-disenar/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

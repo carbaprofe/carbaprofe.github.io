@@ -47,6 +47,6 @@ Una técnica útil para hacer bocetos y croquis con más soltura es el **cajeado
 ---
 
 <nav class="nav-conceptos">
-  <a href="/temas/diseno-fabricacion/">← Deseño e fabricación</a>
+  <a href="/temas/diseno-fabricacion/">← Diseño y fabricación</a>
   <a href="/conceptos/diseno-escalas/">Siguiente: Escalas →</a>
 </nav>

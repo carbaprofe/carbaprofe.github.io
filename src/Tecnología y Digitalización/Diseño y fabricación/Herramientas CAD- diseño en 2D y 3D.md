@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Herramientas CAD: diseño en 2D y 3D"
+aliases: ["Herramientas CAD: diseño en 2D y 3D"]
 permalink: "/conceptos/diseno-cad/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

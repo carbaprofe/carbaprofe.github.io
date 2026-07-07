@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Productos tecnológicos: ciclo comercial"
+aliases: ["Productos tecnológicos: ciclo comercial"]
 permalink: "/conceptos/tecnologia-ciclo-comercial/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

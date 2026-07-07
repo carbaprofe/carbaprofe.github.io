@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Software: sistema operativo y programas"
+aliases: ["Software: sistema operativo y programas"]
 permalink: "/conceptos/tic-software/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

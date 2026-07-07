@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Cambio de unidades: magnitudes lineales y superficiales"
+aliases: ["Cambio de unidades: magnitudes lineales y superficiales"]
 permalink: "/conceptos/tecnologia-cambio-unidades/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

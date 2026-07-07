@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Bienestar digital: uso responsable de la tecnología"
+aliases: ["Bienestar digital: uso responsable de la tecnología"]
 permalink: "/conceptos/tic-bienestar-digital/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Analizar: definir el problema"
+aliases: ["Analizar: definir el problema"]
 permalink: "/conceptos/tecnologia-analizar-problema/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

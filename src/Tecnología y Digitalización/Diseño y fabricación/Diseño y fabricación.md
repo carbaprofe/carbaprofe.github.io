@@ -1,14 +1,14 @@
 ---
 layout: base.njk
-title: "Deseño e fabricación"
+title: "Diseño y fabricación"
 permalink: "/temas/diseno-fabricacion/"
 ---
 
-# Deseño e fabricación
+# Diseño y fabricación
 
 <p class="meta">Tecnología y Digitalización · 2º ESO</p>
 
-<p class="meta">UD2 · 21 sesións · Peso: 20 % · 1º-2º trimestre</p>
+<p class="meta">UD2 · 21 sesiones · Peso: 20 % · 1º-2º trimestre</p>
 
 ## Conceptos
 

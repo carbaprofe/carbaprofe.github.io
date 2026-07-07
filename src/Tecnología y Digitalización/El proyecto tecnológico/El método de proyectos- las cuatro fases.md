@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "El método de proyectos: las cuatro fases"
+aliases: ["El método de proyectos: las cuatro fases"]
 permalink: "/conceptos/tecnologia-metodo-proyectos/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"

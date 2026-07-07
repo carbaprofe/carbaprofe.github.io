@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Vocabulario bilingüe: TIC"
+aliases: ["Vocabulario bilingüe: TIC"]
 permalink: "/conceptos/tic-vocabulario/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
@@ -88,5 +89,5 @@ fecha: 2026-07-06
 
 <nav class="nav-conceptos">
   <a href="/conceptos/tic-bienestar-digital/">← Bienestar digital</a>
-  <a href="/temas/tic-proceso-tecnologico/">Volver a TIC no proceso tecnolóxico →</a>
+  <a href="/temas/tic-proceso-tecnologico/">Volver a TIC en proceso tecnológico →</a>
 </nav>

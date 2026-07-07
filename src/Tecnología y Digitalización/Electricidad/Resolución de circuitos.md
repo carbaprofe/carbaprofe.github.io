@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: "Resolución de circuitos: resistencia equivalente"
+aliases: ["Resolución de circuitos: resistencia equivalente"]
 permalink: "/conceptos/electricidad-resolucion-circuitos/"
 materia: "Tecnología y Digitalización"
 curso: "2º ESO"
