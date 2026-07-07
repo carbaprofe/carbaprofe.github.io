@@ -19,3 +19,4 @@ title: "Inicio"
 ## Inteligencia Artificial para la Sociedad
 
 - [[Concepto e historia de la IA]]
+- [[Impacto de la IA]]
