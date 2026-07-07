@@ -18,4 +18,4 @@ title: "Inicio"
 
 ## Inteligencia Artificial para la Sociedad
 
-*Próximamente el primer tema.*
+- [[Concepto e historia de la IA]]

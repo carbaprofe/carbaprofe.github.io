@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "40ea5ac023be4f9e",
+    "id": "f2ddee7419f15793",
     "type": "split",
     "children": [
       {
-        "id": "3969a1f23ce914f7",
+        "id": "7e0e8d8b53104d55",
         "type": "tabs",
         "children": [
           {
-            "id": "460696ad846d69bd",
+            "id": "ebd22fafb8587f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas de control y robots/Sensores.md",
+                "file": "Concepto e historia de la IA/Concepto e historia de la IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sensores"
+              "title": "Concepto e historia de la IA"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6edcc9d3ed22ecaf",
+    "id": "73e95d02b7283745",
     "type": "split",
     "children": [
       {
-        "id": "c62a7373bffd09f1",
+        "id": "979551e8400d18f4",
         "type": "tabs",
         "children": [
           {
-            "id": "59da0c067dc3173e",
+            "id": "32238ae3a5764782",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4485c43f209a6982",
+            "id": "eccf7b454fdf9090",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "556ea3d622da34d9",
+            "id": "a7371f0ff819274f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "2e5215e16bc0f77b",
+    "id": "7b0833b99a2a5c97",
     "type": "split",
     "children": [
       {
-        "id": "4b6cf5267b770155",
+        "id": "20d68dbdf52a73bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff1e03a28f0f212",
+            "id": "f21845e916f90fd6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
+                "file": "Concepto e historia de la IA/Concepto e historia de la IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Vocabulario bilingüe- Documentación de proyectos"
+              "title": "Enlaces entrantes de Concepto e historia de la IA"
             }
           },
           {
-            "id": "35b6d0b34758e88f",
+            "id": "c112ca02e57f2a85",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
+                "file": "Concepto e historia de la IA/Concepto e historia de la IA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Vocabulario bilingüe- Documentación de proyectos"
+              "title": "Enlaces salientes de Concepto e historia de la IA"
             }
           },
           {
-            "id": "f1dfd84c2bccd6ec",
+            "id": "8c3d0534b1955791",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "bcde4f3259845641",
+            "id": "12f0a7d51c217516",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "e43f3e893dc34b07",
+            "id": "7340234064d366ef",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentación de proyectos/Vocabulario bilingüe- Documentación de proyectos.md",
+                "file": "Concepto e historia de la IA/Concepto e historia de la IA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Vocabulario bilingüe- Documentación de proyectos"
+              "title": "Esquema de Concepto e historia de la IA"
             }
           }
         ]
@@ -183,45 +183,8 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "460696ad846d69bd",
+  "active": "ebd22fafb8587f09",
   "lastOpenFiles": [
-    "Sin título.md",
-    "Sistemas de control y robots/Sensores.md",
-    "Sistemas de control y robots/Sistemas de control y robots.md",
-    "Sistemas de control y robots/Sistemas de control y robots- componentes y funcionamiento.md",
-    "Mecanismos/¿Qué es un mecanismo?.md",
-    "Sistemas de control y robots/Actuadores.md",
-    "Programación/Vocabulario bilingüe- Programación.md",
-    "Sistemas de control y robots/Vocabulario bilingüe- Sistemas de control y robots.md",
-    "Sistemas de control y robots/Diseño y montaje de un robot sencillo.md",
-    "Sistemas de control y robots/Internet de las cosas (IoT).md",
-    "Sistemas de control y robots/Controladores- la toma de decisiones de un sistema.md",
-    "Sistemas de control y robots/Controladores- la toma de decisiones de un sistema.md.tmp.37278.b29268055c54",
-    "Sistemas de control y robots",
-    "Programación/Introducción a la inteligencia artificial.md",
-    "Programación/Depuración de errores.md",
-    "Programación/Programación por bloques con Blockly.md",
-    "Programación/Estructuras de control- secuencial, condicional y repetitiva.md",
-    "Programación/Diagramas de flujo.md",
-    "Programación/Programación y algoritmos.md",
-    "Programación/Programación.md",
-    "Documentación de proyectos/Comunicación y trabajo colaborativo en entornos virtuales.md",
-    "Programación",
-    "Clippings/DOG 161 del 2582023 - ORDEN de 9 de agosto de 2023 por la que se amplía la relación de materias optativas de la educación secundaria obligatoria y se establece su currículo..md",
-    "Clippings",
-    "Mecanismos/Ruedas de fricción y poleas con correa.md",
-    "Mecanismos/Poleas y polipastos.md",
-    "Mecanismos/Piñones y cadena.md",
-    "Mecanismos/Piñón-cremallera y tornillo-tuerca.md",
-    "Sin título.canvas",
-    "2026-07-06.md",
-    "Sin título 1.canvas",
-    "TIC en proceso tecnológico/Periféricos- dispositivos de entrada y salida.md",
-    "Documentación de proyectos",
-    "Diseño y fabricación",
-    "TIC en proceso tecnológico",
-    "Utilización das TIC no proceso tecnolóxico",
-    "Deseño e fabricación",
-    "El proyecto tecnológico"
+    "Concepto e historia de la IA/¿Qué es la inteligencia artificial?.md"
   ]
 }
